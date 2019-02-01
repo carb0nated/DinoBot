@@ -13,6 +13,9 @@ to land as soon as possible or to just take its time.
 The bot was tested and confirmed to work properly under the following conditions.
 * At least Python 3.6 installed
 * Monitor resolution set at 1920x1080 pixels
+* `pyautogui` and `PIL` modules installed
+  * If you do not have the modules above installed, type in the following command in your CMD/Shell/Terminal: `pip3 install --upgrade Pillow pyautogui`
+  * If you get an error saying something along the lines of `pip3 is not recognized as a command` or `pip3: command not found`, then you might need to setup your PATH properly; there are plenty of resources on Google and YouTube on how to do that.
 
 This bot was only tested using Google Chrome, but should work using most browsers.
 
