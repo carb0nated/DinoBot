@@ -1,5 +1,5 @@
 # DinoBot
-A bot which playes the T-Rex dino game from Google Chrome's offline mode.
+A bot which playes the T-Rex dino game from Google Chrome's offline mode. Current version is 1.0.0.
 
 
 ## How does it work?
